@@ -1,4 +1,4 @@
 # MasterDemo
 Hi all.
-It is n demo project
+It is a demo project
 for me.
